@@ -1,0 +1,3 @@
+UNIMESTRE Educational Management System v2.24.x allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload.
+
+https://www.teste.com.br/captacao/public/v2/pre-cadastro?cd_oferta=payload
